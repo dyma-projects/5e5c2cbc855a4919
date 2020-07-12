@@ -1,0 +1,13 @@
+button{
+  border-radius: 10px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  font-weight: bold;
+}
+.inputName{
+  font-weight: bold;
+  color: red;
+  text-transform: uppercase;
+}
